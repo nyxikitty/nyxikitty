@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://snoofz.net/public/uploads/6249af0c-484c-4f32-887e-638fc8f34aa9.png" alt="ODIUM Logo" width="180"/>
+  <img src="https://snoofz.net/public/uploads/7bf0aa72-cdf0-451c-8f39-5ed22c20ec68.png" alt="ODIUM Logo" width="180"/>
   
   # 👋 Hey, I'm Nyxi
   

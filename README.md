@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://snoofz.net/public/uploads/6249af0c-484c-4f32-887e-638fc8f34aa9.png" alt="ODIUM Logo" width="180"/>
+  <img src="https://snoofz.net/public/uploads/a09a67dd-719c-42fa-a2cd-a9e853a981bd.png" alt="ODIUM Logo" width="180"/>
   
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40"/> Hey, I'm Nyxi
   
@@ -23,7 +23,7 @@ I'm a **programmer** with a passion for building innovative solutions and diving
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22"/> **Full-Stack Development** - Building performant web applications from frontend to backend
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="22" height="22"/> **Game Reverse Engineering** - Analyzing and understanding game mechanics and systems
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="22" height="22"/> **VRChat Development** - Creating clients and tools for enhanced VR experiences
+- <img src="https://global.discourse-cdn.com/vrchat/original/3X/3/b/3b5e88fb8cbcfcc4b241fa2cdf5f965595c48e19.png" width="22" height="22"/> **VRChat Development** - Creating clients and tools for enhanced VR experiences
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" height="22"/> **Performance Optimization** - Crafting ultra-fast solutions with custom protocols
 
 > *"Nothing I do should be gatekept"* - I believe in open-source and knowledge sharing

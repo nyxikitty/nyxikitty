@@ -17,8 +17,11 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2219/2219102.png" width="25" height="25" color="#e91f42"/> About Me
-
+<img src="https://cdn-icons-png.flaticon.com/512/2219/2219102.png" 
+     width="25" 
+     height="25" 
+     style="filter: brightness(0) saturate(100%) invert(27%) sepia(98%) saturate(6247%) hue-rotate(345deg) brightness(95%) contrast(92%);" />
+     
 I'm a **programmer** with a passion for building innovative solutions and diving deep into how things work. My expertise spans across multiple domains:
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="20" height="20"/> **Full-Stack Development** - Building performant web applications from frontend to backend

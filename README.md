@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2219/2219102.png" width="25" height="25"/> About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/2219/2219102.png" width="25" height="25" color="#e91f42"/> About Me
 
 I'm a **programmer** with a passion for building innovative solutions and diving deep into how things work. My expertise spans across multiple domains:
 

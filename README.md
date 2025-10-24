@@ -23,7 +23,7 @@ I'm a **programmer** with a passion for building innovative solutions and diving
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="20" height="20"/> **Full-Stack Development** - Building performant web applications from frontend to backend
 - <img src="https://cdn-icons-png.flaticon.com/512/2913/2913133.png" width="20" height="20"/> **Game Reverse Engineering** - Analyzing and understanding game mechanics and systems
-- <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="20" height="20"/> **VRChat Development** - Creating clients and tools for enhanced VR experiences
+- <img src="https://global.discourse-cdn.com/vrchat/original/3X/3/b/3b5e88fb8cbcfcc4b241fa2cdf5f965595c48e19.png" width="20" height="20"/> **VRChat Development** - Creating clients and tools for enhanced VR experiences
 - <img src="https://cdn-icons-png.flaticon.com/512/1042/1042339.png" width="20" height="20"/> **Performance Optimization** - Crafting ultra-fast solutions with custom protocols
 
 > *"Nothing I do should be gatekept"* - I believe in open-source and knowledge sharing
